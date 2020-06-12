@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GaztodayIntellij.iml" filepath="$PROJECT_DIR$/GaztodayIntellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gaztoday_intellij.iml" filepath="$PROJECT_DIR$/Gaztoday_intellij.iml" />
     </modules>
   </component>
 </project>
